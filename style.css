@@ -4,3 +4,13 @@ body {
 h2 {
     color: rgb(208, 43, 43);
 }
+h1 {
+    font-style: inherit;
+    color: white;
+    background-color: wheat;
+}
+p {
+    color: brown;
+    font-style: unset;
+    size: 0cqmax;
+}
