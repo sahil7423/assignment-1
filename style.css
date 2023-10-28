@@ -1,16 +1,12 @@
-body {
-    background-color: turquoise;
+
+@font-face {
+    font-family:'style';
+    src: url(fonts/PlayfairDisplay-Medium.ttf);
 }
-h2 {
-    color: rgb(208, 43, 43);
-}
-h1 {
-    font-style: inherit;
-    color: white;
-    background-color: wheat;
-}
-p {
-    color: brown;
-    font-style: unset;
-    size: 0cqmax;
+.id > h1 {
+    color: orange;
+    text-shadow: 2px 7px 4px black;
+    font-size: 60px;
+    font-family: style;
+
 }
